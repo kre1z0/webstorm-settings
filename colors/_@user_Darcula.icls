@@ -1,0 +1,25 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2016-11-26T01:33:10</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2016.3.1.0.0</property>
+    <property name="modified">2016-12-07T12:32:54</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <attributes>
+    <option name="JS.BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="676c6e" />
+      </value>
+    </option>
+    <option name="JS.LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="888888" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
