@@ -1,5 +1,0 @@
-<templateSet group="Zen CSS">
-  <template name="ac:fs" value="align-content: flex-start;" description="align-content:flex-start;" toReformat="true" toShortenFQNames="false">
-    <context />
-  </template>
-</templateSet>
